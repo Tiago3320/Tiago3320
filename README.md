@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Tiago3320/Tiago3320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tiago3320@tiago3320.com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
